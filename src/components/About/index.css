@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.about-logo {
+  height: 100px;
+}
+.about-text {
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

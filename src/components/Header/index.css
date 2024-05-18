@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+.navbar-items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90vh;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+}
+.nxt-logo {
+  height: 30px;
+}
+.nxt-title {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: black;
+}
+.navitems-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 30vh;
+}
+.navitem {
+  list-style-type: none;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.link-item {
+  text-decoration: none;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #12022f;
+}
